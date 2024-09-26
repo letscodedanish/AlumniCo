@@ -1,6 +1,6 @@
 # Dev Overflow - StackOverflow Clone
 
-Welcome to Dev Overflow - a comprehensive StackOverflow-like platform created as part of the "Ultimate Next.js 14 Course" by JS Mastery. This app is built with Next.js, utilizing cutting-edge web development techniques to provide a feature-rich experience.
+A complex Q&A platform for developers to ask questions, share knowledge, and learn from each other. Built with Next.js, TypeScript, Tailwind CSS, Clerk, and MongoDB, it includes advanced features like AI-generated answers, a recommendation system, badge/reputation, and more.
 
 ## Features:
 
